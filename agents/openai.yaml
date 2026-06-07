@@ -1,0 +1,3 @@
+display_name: Frontend Delivery Reviewer
+short_description: Adds solution research and expert review gates before frontend delivery.
+default_prompt: Use frontend-delivery-reviewer to plan the UI approach, implement carefully, inspect the rendered result, score it against the frontend rubric, and iterate until it passes.
